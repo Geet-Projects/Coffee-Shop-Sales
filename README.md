@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales
+# Coffee-Shop-Sales-Analysis
 ☕ **Coffee Shop Sales**: Interactive Data Analysis & Dashboard
 
 📌 **Project Overview**
